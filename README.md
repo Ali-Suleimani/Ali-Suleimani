@@ -11,7 +11,7 @@
   </h1>
 </div>
 ---
-  ### :woman_technologist: About Me :
+  :woman_technologist: About Me :
 As A bachelor's degree engineer in Electronic and Computer Engineering from KTH in Stockholm, I acquired theoretical and practical skills both in software and hardware engineering. Eager to work on hands-on project to design and develop technical solutions which helps people.
 My hobbies are dancing Salsa/Bachata and go the gym.  
 
