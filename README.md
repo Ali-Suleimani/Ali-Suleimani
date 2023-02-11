@@ -26,7 +26,7 @@ My hobbies are dancing Salsa/Bachata and go the gym.
  </div>
   
 ---
- ### :books Some university courses!
+ ### 📚 Some university courses!
 
 <!--
 **Ali-Suleimani/Ali-Suleimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
