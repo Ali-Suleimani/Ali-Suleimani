@@ -19,14 +19,13 @@ My hobbies are dancing Salsa/Bachata and go the gym.
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="[https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg](https://2.bp.blogspot.com/-gA68ijRuxmg/WmyZEmdOrSI/AAAAAAAAAYU/1aoU684TB2YfjVj_x3oPiKawLliLVfK6QCLcBGAs/s320/Screenshot%2B%25286%2529.png)"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://tse3.mm.bing.net/th?id=OIP.f9OfPQ2I9Ac7fsIOzZcVLwHaG9&pid=Api&P=0"  title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    
-    <img src="[https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg](http://mech.fsv.cvut.cz/~nezerka/DIC/_images/matlab.png)" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+   <img src="[[https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg](http://mech.fsv.cvut.cz/~nezerka/DIC/_images/matlab.png)](https://tse2.mm.bing.net/th?id=OIP.uSDrS39Mu1WNEXjC691knwHaHc&pid=Api&P=0)" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   </div>
 ---
-  :books Some university courses!
+ ### :books Some university courses!
 
 <!--
 **Ali-Suleimani/Ali-Suleimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
