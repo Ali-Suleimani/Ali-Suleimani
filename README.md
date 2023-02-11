@@ -27,6 +27,8 @@ My hobbies are dancing Salsa/Bachata and go the gym.
   
 ---
  ### 📚 Some university courses!
+  - [Programming 1](the link)
+  https://www.sitepoint.com/github-profile-readme/
 
 <!--
 **Ali-Suleimani/Ali-Suleimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
