@@ -27,7 +27,7 @@ My hobbies are dancing Salsa/Bachata and go the gym.
  </div>
   
 ---
- ### 📚 Some university courses!
+ ### 📚 Some of the courses!
   - [Programming 1](https://www.kth.se/student/kurser/kurs/ID1018/?l=en)
   - [Computer Hardware Engineering](https://www.kth.se/student/kurser/kurs/IS1200?periods=6&startterm=20241&l=en)
   - [Engineering skills](https://www.kth.se/student/kurser/kurs/II1300?periods=6&startterm=20232&l=en)
