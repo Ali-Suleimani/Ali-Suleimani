@@ -27,7 +27,21 @@ My hobbies are dancing Salsa/Bachata and go the gym.
   
 ---
  ### 📚 Some university courses!
-  - [Programming 1](the link)
+  - [Programming 1](https://www.kth.se/student/kurser/kurs/ID1018/?l=en)
+  - [Computer Hardware Engineering](https://www.kth.se/student/kurser/kurs/IS1200?periods=6&startterm=20241&l=en)
+  - [Engineering skills](https://www.kth.se/student/kurser/kurs/II1300?periods=6&startterm=20232&l=en)
+  - [Digital Design] (https://www.kth.se/student/kurser/kurs/IE1204?periods=6&startterm=20232&l=en)
+  - [Calculus](https://www.kth.se/student/kurser/kurs/IX1304?periods=6&startterm=20241&l=en)
+  - [Algorithm and Data Structures](https://www.kth.se/student/kurser/kurs/ID1021?periods=0&l=en)
+  - [Embedded Systems](https://www.kth.se/student/kurser/kurs/IS1300?periods=0&l=en)
+  - [Signal Processing](https://www.kth.se/student/kurser/kurs/II1303?periods=0&l=en)
+  - [Analog Electronics](https://www.kth.se/student/kurser/kurs/IE1202?periods=0&l=en)
+  - [Electronic Product Development](https://www.kth.se/student/kurser/kurs/IE1332?periods=0&l=en)
+  - [Networks and Communication](https://www.kth.se/student/kurser/kurs/IK1203?periods=0&l=en)
+  - [VHDL Design](https://www.kth.se/student/kurser/kurs/IL1331?periods=0&l=en)
+  - [Interaction Programming and the Dynamic Web](https://www.kth.se/student/kurser/kurs/DH2642?periods=0&l=en)
+  - [IT- Hardware Security](https://www.kth.se/student/kurser/kurs/IL1333?periods=0&l=en)
+  
   https://www.sitepoint.com/github-profile-readme/
 
 <!--
