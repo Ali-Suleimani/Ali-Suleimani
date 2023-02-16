@@ -30,7 +30,7 @@ My hobbies are dancing Salsa/Bachata and go the gym.
   - [Programming 1](https://www.kth.se/student/kurser/kurs/ID1018/?l=en)
   - [Computer Hardware Engineering](https://www.kth.se/student/kurser/kurs/IS1200?periods=6&startterm=20241&l=en)
   - [Engineering skills](https://www.kth.se/student/kurser/kurs/II1300?periods=6&startterm=20232&l=en)
-  - [Digital Design] (https://www.kth.se/student/kurser/kurs/IE1204?periods=6&startterm=20232&l=en)
+  - [Digital Design](https://www.kth.se/student/kurser/kurs/IE1204?periods=6&startterm=20232&l=en)
   - [Calculus](https://www.kth.se/student/kurser/kurs/IX1304?periods=6&startterm=20241&l=en)
   - [Algorithm and Data Structures](https://www.kth.se/student/kurser/kurs/ID1021?periods=0&l=en)
   - [Embedded Systems](https://www.kth.se/student/kurser/kurs/IS1300?periods=0&l=en)
