@@ -21,6 +21,7 @@ My hobbies are dancing Salsa/Bachata and go the gym.
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://tse3.mm.bing.net/th?id=OIP.f9OfPQ2I9Ac7fsIOzZcVLwHaG9&pid=Api&P=0"  title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
     <img src ="https://www.nebrija.com/medios/actualidadnebrija/wp-content/uploads/sites/2/2020/05/Matlab_logo-787x459.jpg"title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
  </div>
