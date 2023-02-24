@@ -43,7 +43,7 @@ My hobbies are dancing Salsa/Bachata and go the gym.
   - [Interaction Programming and the Dynamic Web](https://www.kth.se/student/kurser/kurs/DH2642?periods=0&l=en)
   - [IT- Hardware Security](https://www.kth.se/student/kurser/kurs/IL1333?periods=0&l=en)
   
-  ## links to some of my projects/website
+  ### links to some of my projects/website
   -[Dinner planner](https://tw3-lab.web.app/vue/index.html#search)
   
 
