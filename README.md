@@ -44,7 +44,7 @@ My hobbies are dancing Salsa/Bachata and go the gym.
   - [IT- Hardware Security](https://www.kth.se/student/kurser/kurs/IL1333?periods=0&l=en)
   
   ### links to some of my projects/website
-  -[Dinner planner](https://tw3-lab.web.app/vue/index.html#search)
+  -[Dinner planner](https://tw3-lab.web.app/vue/index.html#search);
   -[Decible](https://decibel-6a467.web.app/Home)
   
 
